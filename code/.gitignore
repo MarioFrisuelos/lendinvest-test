@@ -1,0 +1,7 @@
+# Vendor
+/vendor
+
+# PHPUnit config files 
+phpunit.xml
+.phpunit.result.cache
+.phpunit.xml
